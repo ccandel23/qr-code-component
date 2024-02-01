@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "Frontend Mentor Challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccandel23/qr-code-component.git"
+  },
+  "author": "C. Candel L.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccandel23/qr-code-component/issues"
+  },
+  "homepage": "https://github.com/ccandel23/qr-code-component#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
